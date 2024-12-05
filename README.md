@@ -1,4 +1,4 @@
-# Visual Question Answering using Cross-Modal Attention
+# ”SHERLOCK” (Structured Hierarchical Encoding and Reasoning for Looking,Observing, and Comprehending Knowledge)
 
 This repository contains an implementation of a Visual Question Answering (VQA) system that leverages CLIP embeddings with cross-modal attention mechanisms. The project includes both a baseline model using vanilla CLIP and an enhanced model with multi-level feature processing and attention mechanisms.
 
